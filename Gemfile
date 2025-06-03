@@ -1,3 +1,3 @@
 source 'https://rubygems.org'
-gem 'jekyll', '3.2.0'
-gem 'jekyll-scholar'
+gem 'jekyll', '3.2.1'
+gem 'jekyll-scholar', '>= 5.9.0'
